@@ -19,10 +19,18 @@
 			<version>${apache.commons.lang3.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.aankiel</groupId>
+			<groupId>com.github.aar0nsky</groupId>
 			<artifactId>CommonTesting</artifactId>
-			<version>${common.testing.version}</version>
+			<version>1.0.1</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
 </project>
