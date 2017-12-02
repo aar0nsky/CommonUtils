@@ -9,7 +9,7 @@
 
 	<properties>
 		<apache.commons.lang3.version>3.7</apache.commons.lang3.version>
-		<common.testing.version>0.0.1-SNAPSHOT</common.testing.version>
+		<common.testing.version>1.0.1</common.testing.version>
 	</properties>
 
 	<dependencies>
